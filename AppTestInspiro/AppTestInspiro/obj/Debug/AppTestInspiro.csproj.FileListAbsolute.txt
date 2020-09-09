@@ -1,0 +1,6 @@
+c:\users\granger\documents\visual studio 2015\Projects\AppTestInspiro\AppTestInspiro\bin\Debug\AppTestInspiro.exe.config
+c:\users\granger\documents\visual studio 2015\Projects\AppTestInspiro\AppTestInspiro\bin\Debug\AppTestInspiro.exe
+c:\users\granger\documents\visual studio 2015\Projects\AppTestInspiro\AppTestInspiro\bin\Debug\AppTestInspiro.pdb
+c:\users\granger\documents\visual studio 2015\Projects\AppTestInspiro\AppTestInspiro\obj\Debug\AppTestInspiro.csprojResolveAssemblyReference.cache
+c:\users\granger\documents\visual studio 2015\Projects\AppTestInspiro\AppTestInspiro\obj\Debug\AppTestInspiro.exe
+c:\users\granger\documents\visual studio 2015\Projects\AppTestInspiro\AppTestInspiro\obj\Debug\AppTestInspiro.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <Makanan>
+    <No>1</No>
+    <name>Biskuit</name>
+    <Price>6000</Price>
+    <Stock>10</Stock>
+  </Makanan>
+  <Makanan>
+    <No>2</No>
+    <name>Chips</name>
+    <Price>8000</Price>
+    <Stock>1</Stock>
+  </Makanan>
+  <Makanan>
+    <No>3</No>
+    <name>Oreo</name>
+    <Price>10000</Price>
+    <Stock>7</Stock>
+  </Makanan>
+  <Makanan>
+    <No>4</No>
+    <name>Tango</name>
+    <Price>12000</Price>
+    <Stock>10</Stock>
+  </Makanan>
+  <Makanan>
+    <No>5</No>
+    <name>Cokelat</name>
+    <Price>15000</Price>
+    <Stock>10</Stock>
+  </Makanan>
+</data>
